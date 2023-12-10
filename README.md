@@ -4,10 +4,10 @@ Made using PERN stack. You can create and edit todos as per your need and can de
 
 ## What is PERN stack
 
-**P** stands for **Postgres** Database
-**E** stands for **Express.js** framework
-**R** stands for **React.js** for frontend
-**N** stads for **Node.js**
+**P** stands for **Postgres** Database <br/>
+**E** stands for **Express.js** framework <br/>
+**R** stands for **React.js** for frontend <br/>
+**N** stads for **Node.js** <br/>
 
 ## Run Locally
 
